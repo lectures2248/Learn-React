@@ -1,4 +1,4 @@
-# React Hooks — Practical Lecture
+# React Hooks
 
 In the previous lectures, we already covered:
 
